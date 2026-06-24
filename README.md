@@ -96,3 +96,10 @@ Example prompts:
 - "Analyze my model and suggest additional measures."
 - "Review the relationships for any potential issues."
 - "Write a DAX measure for year-over-year sales growth using the Sales and Date tables."
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE). Free to use, modify, and distribute, with credit to
+**Rajat Sachan**.
